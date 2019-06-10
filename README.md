@@ -34,6 +34,7 @@ If a name is not yet in the .csv file, you can enter '2' to add it (This will be
 If you run future tournaments and someone has entered with a new name, when the program detects the name is new, enter '1' instead to update
 their new alias. It will then ask for the players ID in your .csv file who's name should be updated. 
 Make sure VerifyPlayers completes before running a tournament. Here is what the program looks like for each player:
+
 ![](example.jpg)
 
 3.) Finally, run 'RunTourney.py' and enter the same tournament ID as before. After this is done, your CSV file will contain your new rankings.
